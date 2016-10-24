@@ -2,151 +2,151 @@
 <items version="2" >
 
     <item
-        jar="/Users/cpeoples/Downloads/browser-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="25.0.0"
-        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
-        <dex dex="/Users/cpeoples/Downloads/browser-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.0_75280712f5829235bbc2154752c3852bd42b7384/classes.dex" />
-    </item>
-    <item
-        jar="/Users/cpeoples/Downloads/browser-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jar="/Users/cpeoples/Documents/browser_github_test/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
         jumboMode="true"
         revision="25.0.0"
         sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="/Users/cpeoples/Downloads/browser-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_a8c1fbe9b8d76ed50123f7e34d483089b94029be/classes.dex" />
+        <dex dex="/Users/cpeoples/Documents/browser_github_test/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_c0f8c0bdabfbe11dbac0718e65fae15d0fa001ba/classes.dex" />
     </item>
     <item
-        jar="/Users/cpeoples/Downloads/browser-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jar="/Users/cpeoples/Documents/browser_github_test/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
         jumboMode="true"
         revision="25.0.0"
-        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
-        <dex dex="/Users/cpeoples/Downloads/browser-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_7e777a98cb767c003f4f03d4289ed738ce002a4d/classes.dex" />
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/cpeoples/Documents/browser_github_test/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_bd22f90f008ee1ace677bf36516354c0f1481c08/classes.dex" />
     </item>
     <item
-        jar="/Users/cpeoples/Downloads/browser-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jar="/Users/cpeoples/Documents/browser_github_test/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
         jumboMode="true"
         revision="25.0.0"
-        sha1="26674000177e45447a0326a6ad84612761199a13">
-        <dex dex="/Users/cpeoples/Downloads/browser-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_ab8a2827f8d61e13c970d98c113636f1c0f5b07c/classes.dex" />
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/cpeoples/Documents/browser_github_test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.0_236f369c137f3454356e882eab707687b8d68a8a/classes.dex" />
     </item>
     <item
-        jar="/Users/cpeoples/Downloads/browser-master/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jar="/Users/cpeoples/Documents/browser_github_test/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/cpeoples/Documents/browser_github_test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_c83e4e1d4bb86fbd9d71377ce3cc737151fbafc0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cpeoples/Documents/browser_github_test/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
         jumboMode="true"
         revision="25.0.0"
         sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
-        <dex dex="/Users/cpeoples/Downloads/browser-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.0_6ce7f7827f435bced9874d2b6c86133585f691dd/classes.dex" />
+        <dex dex="/Users/cpeoples/Documents/browser_github_test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.0_491eba4480c5122074ae899426276d1366b75aea/classes.dex" />
     </item>
     <item
-        jar="/Users/cpeoples/Downloads/browser-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jar="/Users/cpeoples/Documents/browser_github_test/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
         jumboMode="true"
         revision="25.0.0"
         sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
-        <dex dex="/Users/cpeoples/Downloads/browser-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_b410258515b714b2809dcb0ac534afba28f529f7/classes.dex" />
+        <dex dex="/Users/cpeoples/Documents/browser_github_test/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_273db894d815e11484ee9e3faf478c2011a78e48/classes.dex" />
     </item>
     <item
-        jar="/Users/cpeoples/Downloads/browser-master/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jar="/Users/cpeoples/Documents/browser_github_test/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
         jumboMode="true"
         revision="25.0.0"
-        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
-        <dex dex="/Users/cpeoples/Downloads/browser-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.0_4173b2837c341a71790b3890718d84e2cec11cd9/classes.dex" />
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/cpeoples/Documents/browser_github_test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_116fceab6011c3786f191d60e76378942bbc8827/classes.dex" />
     </item>
     <item
-        jar="/Users/cpeoples/Downloads/browser-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jar="/Users/cpeoples/Documents/browser_github_test/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
         jumboMode="true"
         revision="25.0.0"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/cpeoples/Downloads/browser-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_e20f279c0a2ee1a838bb7c9aea05425876722368/classes.dex" />
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/cpeoples/Documents/browser_github_test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_29a2c73246d554efca88f2bd88a6a23053cfa5f0/classes.dex" />
     </item>
     <item
-        jar="/Users/cpeoples/Downloads/browser-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jar="/Users/cpeoples/Documents/browser_github_test/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
         jumboMode="true"
         revision="25.0.0"
-        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
-        <dex dex="/Users/cpeoples/Downloads/browser-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_bcb5a5b49911497ee7b80bee84b57c8d503af575/classes.dex" />
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/cpeoples/Documents/browser_github_test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_adbb948e1b3b065058004cd45f7e85e2e0088181/classes.dex" />
     </item>
     <item
-        jar="/Users/cpeoples/Downloads/browser-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="true"
-        revision="25.0.0"
-        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
-        <dex dex="/Users/cpeoples/Downloads/browser-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_edabcabe6ad1a6570969c29461e403bdcaf87042/classes.dex" />
-    </item>
-    <item
-        jar="/Users/cpeoples/Downloads/browser-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jar="/Users/cpeoples/Documents/browser_github_test/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
         jumboMode="true"
         revision="25.0.0"
         sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
-        <dex dex="/Users/cpeoples/Downloads/browser-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_4ba87adc4927f45ff4d1f96c4b2bf687ff46771b/classes.dex" />
+        <dex dex="/Users/cpeoples/Documents/browser_github_test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_ad5252f3482c73dc276395388371e6bf955150fb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cpeoples/Documents/browser_github_test/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/cpeoples/Documents/browser_github_test/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_1e3ab4e9b442592f9192b58711c48387611ac343/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cpeoples/Documents/browser_github_test/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/cpeoples/Documents/browser_github_test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_107be56255d5ce64e548fa97c2a0c3dc25e556ee/classes.dex" />
     </item>
     <item
         jar="/Users/cpeoples/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
         jumboMode="true"
         revision="25.0.0"
         sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
-        <dex dex="/Users/cpeoples/Downloads/browser-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_201a9c5677d0c59ad5f8f904a17f9ec8e00c8d1c/classes.dex" />
+        <dex dex="/Users/cpeoples/Documents/browser_github_test/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_201a9c5677d0c59ad5f8f904a17f9ec8e00c8d1c/classes.dex" />
     </item>
     <item
-        jar="/Users/cpeoples/Downloads/browser-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="true"
-        revision="25.0.0"
-        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
-        <dex dex="/Users/cpeoples/Downloads/browser-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_4d71fdfb6c8b5689ff362bffe0f5e2fd7df924bf/classes.dex" />
-    </item>
-    <item
-        jar="/Users/cpeoples/Downloads/browser-master/app/build/intermediates/exploded-aar/com.github.ksoichiro/android-observablescrollview/1.6.0/jars/classes.jar"
+        jar="/Users/cpeoples/Documents/browser_github_test/app/build/intermediates/exploded-aar/com.github.ksoichiro/android-observablescrollview/1.6.0/jars/classes.jar"
         jumboMode="true"
         revision="25.0.0"
         sha1="d125b199a427e5cc8d4234f7d8673c9a27ef6336">
-        <dex dex="/Users/cpeoples/Downloads/browser-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.ksoichiro-android-observablescrollview-1.6.0_3c8bc6fee352694d9ee2ed82dc3468e6cee38d6f/classes.dex" />
+        <dex dex="/Users/cpeoples/Documents/browser_github_test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.ksoichiro-android-observablescrollview-1.6.0_2830a73a85ac02979156554494c5f1df4f1efb62/classes.dex" />
     </item>
     <item
-        jar="/Users/cpeoples/Downloads/browser-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="true"
-        revision="25.0.0"
-        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
-        <dex dex="/Users/cpeoples/Downloads/browser-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_1603f8eda94b03a51e45c743a825f7b733cb9af5/classes.dex" />
-    </item>
-    <item
-        jar="/Users/cpeoples/Downloads/browser-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jar="/Users/cpeoples/Documents/browser_github_test/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
         jumboMode="true"
         revision="25.0.0"
         sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
-        <dex dex="/Users/cpeoples/Downloads/browser-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_a54f9f77e6890b8da858e7daee68728d9b51177d/classes.dex" />
+        <dex dex="/Users/cpeoples/Documents/browser_github_test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_4ea5e02292c65bc1337f56b8404477cdf3173c16/classes.dex" />
     </item>
     <item
-        jar="/Users/cpeoples/Downloads/browser-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jar="/Users/cpeoples/Documents/browser_github_test/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="25.0.0"
-        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
-        <dex dex="/Users/cpeoples/Downloads/browser-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_4e72f3bc012adfc9bef1d4ca98c9ec4f136119ca/classes.dex" />
+        sha1="b49149a2ecf3176223083c5e1b1ff32df28efb99">
+        <dex dex="/Users/cpeoples/Documents/browser_github_test/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0ce069eb1b6e06dc39b0f709f2015e5a256c6fdd/classes.dex" />
     </item>
     <item
-        jar="/Users/cpeoples/Downloads/browser-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/cpeoples/Documents/browser_github_test/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
         jumboMode="true"
         revision="25.0.0"
-        sha1="458d7470e7de9571a4b1a960b97a05e6071c9b0f">
-        <dex dex="/Users/cpeoples/Downloads/browser-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_804f0ffa2c45f8e1be2c3457bedb734d66e99eb5/classes.dex" />
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/cpeoples/Documents/browser_github_test/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_8c830c7c3fc23889bd69e332246076e64bd7c296/classes.dex" />
     </item>
     <item
-        jar="/Users/cpeoples/Downloads/browser-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jar="/Users/cpeoples/Documents/browser_github_test/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="25.0.0"
-        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
-        <dex dex="/Users/cpeoples/Downloads/browser-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_7eefab45cdb390bebd71d86359fd0c6e63c26656/classes.dex" />
+        sha1="c03b4ac196ea100e4098759d2c7e084a4fc0705b">
+        <dex dex="/Users/cpeoples/Documents/browser_github_test/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b082bdcc16e0601613aa362bb58d9d81caad5b60/classes.dex" />
     </item>
     <item
-        jar="/Users/cpeoples/Downloads/browser-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/cpeoples/Documents/browser_github_test/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
         jumboMode="true"
         revision="25.0.0"
-        sha1="19c97bad5f829452ffdc3f609de15740f4e98af9">
-        <dex dex="/Users/cpeoples/Downloads/browser-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a5d03ad621d6ab1c3206e0a7bd05f87b4bca6f1c/classes.dex" />
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/cpeoples/Documents/browser_github_test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_3831756299fd18de74527bfdb7123a97b90acbc6/classes.dex" />
     </item>
     <item
-        jar="/Users/cpeoples/Downloads/browser-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jar="/Users/cpeoples/Documents/browser_github_test/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
         jumboMode="true"
         revision="25.0.0"
-        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
-        <dex dex="/Users/cpeoples/Downloads/browser-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_fb31449d1970bb7cb313da3552a7ce6746c19cc3/classes.dex" />
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/cpeoples/Documents/browser_github_test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.0_0617a10dfb8feed3b1b6249488a31cb9e1d24ce0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/cpeoples/Documents/browser_github_test/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/cpeoples/Documents/browser_github_test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_b9527f424af4a27fc44e1390aead33853f8e7ada/classes.dex" />
     </item>
 
 </items>
